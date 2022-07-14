@@ -1,0 +1,162 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0; 
+}
+.top-container{
+    height: 100vh;
+    background-color: #e4f9f5;
+}
+.top-cloud{
+    margin-bottom: 20vh;
+    position: absolute;
+    /* top: 0vh; */
+    top: 10vh; 
+    left: 75vw;
+    width: 18vw;  
+    opacity: .40;
+}
+.name{
+    position: relative;
+    top: 22vh;
+    margin: 0;
+    padding: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 7vw;
+}
+.bottom-cloud{
+    /* margin-bottom: 20vh; */
+    position: absolute;
+    /* top: 0vh; */
+    top: 60vh; 
+    left: 5vw;
+    width: 18vw;  
+    opacity: .60;
+}
+.a-programmer{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 20vh;
+    font-size: 3.5vw;
+}
+.mountain{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    right: 23vw;
+    /* top: 50vh; */
+    bottom: 0vh;
+    width: 48vw;
+}
+.profile-container{
+    height: 100vh;
+    background-color: rgb(198, 255, 255);
+
+}
+.skill-container{
+    height: 100vh;
+    background-color: #54BAB9;
+}
+.my-skills{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 12vh;
+    font-size: 5vw;
+}
+.hello{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 21vh;
+    left: -35vw;
+    /* right: 65vh; */
+    font-size: 3vw;
+    line-height: 15vh;
+}
+.profile-pic{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: 16vh;
+    width: 13vw;
+
+}
+.about{
+    margin: 0 5vw 0 11vw;
+    padding: 0;
+    position: relative;
+    top: 21vh;
+    text-align: center;
+    font-size: 2.5vw;
+    line-height: 6.5vh;
+}
+.python{
+    position: relative; 
+    top: 25vh;
+    right: 15vw;
+    font-size: 2vw;
+}
+.python-icon{
+    position: absolute;
+    top: 232vh;
+    left: 60vw;
+    width: 9vw;
+
+}
+.web-developer{
+    margin: 0;
+    padding: 0;
+    position: absolute; 
+    left: 58vw;
+    top: 271vh;
+    font-size: 2vw;
+}
+
+.web-developer-img{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 264vh;
+    left: 30vw;
+    width: 9vw;
+}
+.contact-container{
+    height: 25vh;
+    background-color: black;
+}
+.contact-me{
+    margin: 0;
+    padding: 0;
+    color: white;
+    position: absolute;
+    top: 300vh;
+    left: 5vw;
+    font-size: 3.5vw;
+
+}
+.linkedin{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 10vh;
+    left: 10vw;
+    font-size: 3vh;
+}
+.instagram{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 310vh;
+    right: 16vw;
+    font-size: 3vh;
+}
+.emailid{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 310vh;
+    right: 55vw;
+    font-size: 3vh;
+}
