@@ -1,0 +1,163 @@
+@media (max-width: 1199.5px){
+    h1{
+        font-size: 3.75rem;
+    }
+
+    h2{
+        font-size: 2.1875rem;
+    }
+    h3{
+        font-size: 1.875rem;
+        line-height: 2.6875rem;
+
+    }
+
+    h5{
+        font-size: 1.0625rem;
+    }
+
+}
+
+@media(max-width: 991px){
+    .header-scrolled{
+        height: auto;
+
+    }
+    .header_wrapper .navbar-collapse{
+        margin-top: -0.125rem;
+    }
+
+    .header_wrapper .menu-navbar-nav{
+        text-align: center;
+        background-color: var(--bg-white);
+        padding-bottom: 0.9375rem;
+
+    }
+    .header_wrapper .nav-item .nav-link{
+        margin-top: 0.9375rem;
+        
+    }
+
+}
+
+@media (max-width: 767px){
+    h1{
+        font-size: 2.5rem;
+        line-height: 3rem;  
+    }
+
+    h2{
+        font-size: 1.875rem;
+        line-height: 2.375rem;  
+
+    }
+
+    h3{
+        font-size: 1.5625rem;
+        line-height: 2.1875rem;  
+    }
+}
+
+@media (max-width: 610px){
+    .contactul{
+        flex-direction: column;
+
+    }
+    footer{
+        width: 21rem;
+    }
+
+}
+
+@media (max-width: 300px){
+    .ccontainer{
+        width: 12rem;
+    }
+
+}
+
+@media(max-width:1050px){
+    .myskill{
+        position: relative;
+        left: 0;
+        }
+}
+
+@media(max-width:415px){
+    .mt-5{
+        display: flex;
+        flex-direction: column;
+    }
+    .main-btn{
+        margin: 0.4rem 0;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width:550px){
+    .eduData{
+        font-size: 1.2rem;
+    }
+    #pg{
+        border-radius: 100%;
+        position: relative;
+        bottom: 0.8rem;
+        left: 1.8rem;
+        padding: 0 1rem;
+        margin-right: 0.5rem;
+
+    }
+    #button22{
+        border-radius: 100%;
+        position: relative;
+        bottom: 0.8rem;
+        left: 1.8rem;
+        padding: 0 1rem;
+        margin-right: 0.5rem;
+
+    }
+    #button21{
+        border-radius: 100%;
+        position: relative;
+        bottom: 0.8rem;
+        left: 1.8rem;
+        padding: 0 1rem;
+        margin-right: 0.5rem;
+
+    }
+    #button31{
+        border-radius: 100%;
+        position: relative;
+        bottom: 0.8rem;
+        left: 1.8rem;
+        padding: 0 1rem;
+        margin-right: 0.5rem;
+
+    }
+    #button42{
+        border-radius: 100%;
+        position: relative;
+        bottom: 0.8rem;
+        left: 1.8rem;
+        padding: 0 1rem;
+        margin-right: 0.5rem;
+
+    }
+    footer{
+        width: 22rem;
+    }
+}
+
+@media(max-width:310px){
+    .eduData{
+        font-size: 1rem;
+    }
+}
+@media(max-width:420px){
+    .eduData{
+        font-size: 1rem;
+    }
+    footer{
+        width: 27rem;
+    }
+}

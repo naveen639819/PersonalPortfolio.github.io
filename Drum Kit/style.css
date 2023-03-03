@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(42, 10, 71);
+}
+
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+
+}
+.drums{
+    display: flex;
+    justify-content: center;
+    
+}
+.drum{
+    height: 7rem;
+    width: 7rem;
+    background-color: white;
+    border: 5px solid rgb(131, 51, 205);
+    border-radius: 20px;
+    margin: 5px;
+
+}
+#drum1{
+    background-image: url('Drum Kit Starting Files/tom1.png');
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+    
+}
+#drum2{
+    background-image: url('Drum Kit Starting Files/tom2.png');
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+}
+#drum3{
+    background-image: url('Drum Kit Starting Files/tom3.png');
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+}
+#drum4{
+    background-image: url('Drum Kit Starting Files/tom4.png');
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+}
+#drum5{
+    background-image: url('Drum Kit Starting Files/snare.png');
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+}
+#drum6{
+    background-image: url('Drum Kit Starting Files/crash.png');
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+}
+#drum7{
+    background-image: url('Drum Kit Starting Files/kick.png');
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+}
+
+.clickme{
+    border: 12px solid rgb(57, 16, 95);
+    border-radius: 20px;
+}
+.fire{
+    background-color: rgb(255, 0, 0);
+}
+.fireH{
+    color: yellow;
+}
+#footter{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 200px;
+    color: rgb(204, 220, 227);
+    text-shadow: -1px 0 red, 0 1px red, 1px 0 red, 0 -1px red;
+}
+
+
+
+/* .drums{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} */
+
+@media(max-width:960px){
+    .drums{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} 
+}
