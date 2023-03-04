@@ -522,6 +522,8 @@ footer{
     margin: .1rem;
     border: 2px solid black;
     width: 18rem;
+    position: relative;
+    left: 4.5rem;
     /* margin-left: auto; */
 }
 
@@ -529,8 +531,8 @@ footer{
     margin-top: 1rem;
     /* margin-left: 2.4rem; */
     white-space: nowrap;
-
-    text-align: center;
+    position: relative;
+    left: 1rem;
 }
 
 .projectContainer{
