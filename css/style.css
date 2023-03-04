@@ -472,6 +472,7 @@ footer{
     padding: 1rem 0;
     background-color: #000;
     color: white;
+    width: 111vw
 }
 .contme{
     font-family: var(--primary-font);
