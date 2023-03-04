@@ -63,10 +63,6 @@
         flex-direction: column;
 
     }
-    footer{
-        width: 21rem;
-    }
-
 }
 
 @media (max-width: 300px){
@@ -143,9 +139,6 @@
         margin-right: 0.5rem;
 
     }
-    footer{
-        width: 22rem;
-    }
 }
 
 @media(max-width:310px){
@@ -156,8 +149,5 @@
 @media(max-width:420px){
     .eduData{
         font-size: 1rem;
-    }
-    footer{
-        width: 27rem;
     }
 }
