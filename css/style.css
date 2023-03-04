@@ -428,6 +428,8 @@ p{
 .portfolio_wrapper .portfolio-img{
     position: relative;
     cursor: pointer;
+    position: relative;
+    right: 2rem;
 
 }
 
@@ -491,6 +493,7 @@ footer{
     list-style: none;
     margin: 0 2rem;
     color: var(--secondry-color);
+    white-space: nowrap;
     /* margin-bottom: 4rem; */
 
 
