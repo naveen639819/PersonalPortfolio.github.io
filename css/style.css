@@ -471,10 +471,10 @@ p{
     
 }
 footer{
-    padding: 1rem 0;
+    padding: 0rem 0;
     background-color: #000;
     color: white;
-    width: 111vw
+    width: 1oovw
 }
 .contme{
     font-family: var(--primary-font);
