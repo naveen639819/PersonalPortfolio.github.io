@@ -63,6 +63,9 @@
         flex-direction: column;
 
     }
+    footer{
+        width: 32rem;
+    }
 }
 
 @media (max-width: 300px){
@@ -138,6 +141,9 @@
         padding: 0 1rem;
         margin-right: 0.5rem;
 
+    }
+    footer{
+        width: 32rem;
     }
 }
 
